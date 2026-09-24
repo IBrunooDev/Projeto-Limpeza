@@ -68,5 +68,13 @@ Simplesmente abra o arquivo index.html em seu navegador web preferido. Não é n
 
 
 ---
+
+- ## :link: Links
+
+- [GitHub](https://github.com/IBrunooDev)
+- [LinkedIn](https://www.linkedin.com/in/brunocarus/?originalSubdomain=br)
+- [Instagram](https://www.instagram.com/IBrunooDev/)
+---
+
 Desenvolvido com :heart: por [IBrunooDev](https://github.com/IBrunooDev) 
 © 2026 IBrunooDev. Todos os direitos reservados.
